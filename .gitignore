@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data files (hosted on Zenodo)
+# Uncomment these if data files exceed GitHub limits:
+# data/*.csv
+# data/*.npy
+# models/*.h5
+# models/cnn_lstm_tflite/*.tflite
+
+# Logs
+*.log
+tensorboard_logs/

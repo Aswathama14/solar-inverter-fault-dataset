@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+title: >-
+  Grid-Tied Solar Inverter Multi-Class Fault Detection Dataset:
+  HIL-Validated Time-Series with OPAL-RT and Raspberry Pi
+  (5-Class, 91,000 Samples)
+message: >-
+  If you use this dataset, please cite both the dataset and the
+  associated conference paper using the references below.
+type: dataset
+authors:
+  - family-names: Patel
+    given-names: Darshan Pankajkumar
+    affiliation: Texas A&M University-Kingsville
+    orcid: 'https://orcid.org/XXXX-XXXX-XXXX-XXXX'
+  - family-names: Pathak
+    given-names: Indrajit P.
+    affiliation: Texas A&M University-Kingsville
+  - family-names: Roach
+    given-names: D.
+    affiliation: Texas A&M University-Kingsville
+  - family-names: Yilmazer
+    given-names: Nuri
+    affiliation: Texas A&M University-Kingsville
+repository-code: 'https://github.com/YOUR_USERNAME/solar-inverter-fault-dataset'
+url: 'https://zenodo.org/record/XXXXXX'
+doi: '10.5281/zenodo.XXXXXX'
+date-released: '2026-01-01'
+license: CC-BY-4.0
+keywords:
+  - grid-tied solar inverter
+  - fault detection
+  - fault classification
+  - deep learning
+  - CNN-LSTM
+  - LSTM
+  - Bi-LSTM
+  - hardware-in-the-loop
+  - OPAL-RT
+  - photovoltaic systems
+  - time-series dataset
+  - power electronics
+  - Raspberry Pi
+  - edge AI
+  - IEEE 519
+  - multi-class classification
+  - condition monitoring
+  - real-time simulation
+  - MQTT
+  - renewable energy
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Robust Deep Learning Models for Fault Detection in Grid-Tied
+    Solar Inverters: A Comparative Study of LSTM, Bi-LSTM, and
+    CNN-LSTM Architectures
+  authors:
+    - family-names: Patel
+      given-names: Darshan P.
+    - family-names: Pathak
+      given-names: Indrajit P.
+    - family-names: Roach
+      given-names: D.
+    - family-names: Yilmazer
+      given-names: Nuri
+  collection-title: >-
+    Proceedings of the IEEE Green Technologies Conference (GreenTech)
+  year: 2026
+  location:
+    name: Boulder, CO, USA
+  publisher:
+    name: IEEE
+  doi: '10.1109/GreenTech68285.2026.11471570'
