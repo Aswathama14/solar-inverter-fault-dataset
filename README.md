@@ -282,15 +282,18 @@ If you use this dataset or code in your research, please cite both the paper and
 ### Paper (BibTeX)
 
 ```bibtex
-@inproceedings{patel2026robust,
-  title     = {Robust Deep Learning Models for Fault Detection in Grid-Tied Solar Inverters: A Comparative Study of LSTM, Bi-LSTM, and CNN-LSTM Architectures},
-  author    = {Patel, Darshan P. and Pathak, Indrajit P. and Roach, D. and Yilmazer, Nuri},
-  booktitle = {Proceedings of the IEEE Green Technologies Conference (GreenTech)},
-  year      = {2026},
-  address   = {Boulder, CO, USA},
-  publisher = {IEEE},
-  doi       = {10.1109/GreenTech68285.2026.11471570}
-}
+
+@INPROCEEDINGS{11471570,
+  author={Patel, Darshan Pankajkumar and Prashant Pathak, Ishan and Roach, Dawson and Yilmazer, Nuri},
+  booktitle={2026 IEEE Green Technologies Conference (GreenTech)}, 
+  title={Robust Deep Learning Models for Fault Detection in Grid-tied Solar Inverters: A Comparative Study of LSTM, Bi-LSTM, and CNN-LSTM Architectures}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={476-481},
+  keywords={Circuits;Filtering;Filters;Voltage multipliers;Capacitors;MIMICs;Circuits and systems;Millimeter wave integrated circuits;Monolithic integrated circuits;Integrated circuits;CNN-LSTM hybrid model;Deep learning fault detection;Grid-tied solar inverter;Hardware-in-the-Loop (HIL) validation;Photovoltaic (PV) systems;Real-time condition monitoring;MQTT},
+  doi={10.1109/GreenTech68285.2026.11471570}}
+
 ```
 
 ### Dataset (BibTeX)
@@ -298,18 +301,19 @@ If you use this dataset or code in your research, please cite both the paper and
 ```bibtex
 @dataset{patel2026inverter_fault_dataset,
   title     = {Grid-Tied Solar Inverter Multi-Class Fault Detection Dataset: HIL-Validated Time-Series with OPAL-RT and Raspberry Pi (5-Class, 91,000 Samples)},
-  author    = {Patel, Darshan Pankajkumar and Pathak, Indrajit P. and Roach, D. and Yilmazer, Nuri},
+  author    = {Patel, Darshan Pankajkumar and Pathak, Ishan P. and Roach, D. and Yilmazer, Nuri},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXX},
-  url       = {https://zenodo.org/record/XXXXXX},
+  doi       = {https://ieeexplore.ieee.org/document/11471570},
+  url       = {https://zenodo.org/records/19463598},
   license   = {CC-BY-4.0}
 }
 ```
 
 ### Plain Text (IEEE Format)
 
-> D. P. Patel, I. P. Pathak, D. Roach, and N. Yilmazer, "Robust Deep Learning Models for Fault Detection in Grid-Tied Solar Inverters: A Comparative Study of LSTM, Bi-LSTM, and CNN-LSTM Architectures," in *Proc. IEEE Green Tech. Conf.*, Boulder, CO, USA, 2026. DOI: [10.1109/GreenTech68285.2026.11471570](https://doi.org/10.1109/GreenTech68285.2026.11471570)
+>D. P. Patel, I. Prashant Pathak, D. Roach and N. Yilmazer, "Robust Deep Learning Models for Fault Detection in Grid-tied Solar Inverters: A Comparative Study of LSTM, Bi-LSTM, and CNN-LSTM Architectures," 2026 IEEE Green Technologies Conference (GreenTech), Boulder, CO, USA, 2026, pp. 476-481, doi: 10.1109/GreenTech68285.2026.11471570. keywords: {Circuits;Filtering;Filters;Voltage multipliers;Capacitors;MIMICs;Circuits and systems;Millimeter wave integrated circuits;Monolithic integrated circuits;Integrated circuits;CNN-LSTM hybrid model;Deep learning fault detection;Grid-tied solar inverter;Hardware-in-the-Loop (HIL) validation;Photovoltaic (PV) systems;Real-time condition monitoring;MQTT},
+>  [10.1109/GreenTech68285.2026.11471570](https://doi.org/10.1109/GreenTech68285.2026.11471570)
 
 ---
 
