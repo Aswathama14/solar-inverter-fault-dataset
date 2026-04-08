@@ -49,7 +49,7 @@ Fault detection in grid-tied solar inverters is critical for grid stability and 
 
 | Property | Value |
 |----------|-------|
-| **Total Samples** | ~91,000 sliding-window sequences |
+| **Total Samples** | ~9000005 sliding-window sequences |
 | **Classes** | 5 (1 normal + 4 fault types) |
 | **Features** | 11 electrical signals |
 | **Sampling Rate** | 10 kHz |
@@ -74,12 +74,12 @@ Fault detection in grid-tied solar inverters is critical for grid stability and 
 
 | Label | Fault Class | Approx. Samples |
 |:-----:|-------------|:---------------:|
-| 0 | Normal Operation | ~18,000 |
-| 1 | SLG Fault (A–G) | ~18,000 |
-| 2 | SLG Fault (B–G) | ~18,000 |
-| 3 | SLG Fault (C–G) | ~18,000 |
-| 4 | Three-Phase Short Circuit | ~18,000 |
-| **Total** | **All 5 Classes** | **~91,000** |
+| 0 | Normal Operation | ~1800001 |
+| 1 | SLG Fault (A–G) | ~1800001 |
+| 2 | SLG Fault (B–G) | ~1800001 |
+| 3 | SLG Fault (C–G) | ~1800001 |
+| 4 | Three-Phase Short Circuit | ~1800001 |
+| **Total** | **All 5 Classes** | **9000005** |
 
 ## Feature Description
 
