@@ -11,7 +11,7 @@
 This repository contains the dataset, code, and pre-trained models from our IEEE GreenTech 2026 paper. The dataset provides **5-class fault detection** data generated via **Hardware-in-the-Loop (HIL) real-time simulation** on OPAL-RT OP4510, acquired through a Raspberry Pi 4 over MQTT — emulating a real-world edge-device monitoring scenario.
 
 📄 **Paper**: [IEEE GreenTech 2026](https://doi.org/10.1109/GreenTech68285.2026.11471570)  
-📦 **Dataset (Zenodo)**: [https://zenodo.org/records/19463598]([https://zenodo.org/record/XXXXXX](https://zenodo.org/records/19463598))  
+📦 **Dataset (Zenodo)**: [https://zenodo.org/records/19463598] (https://zenodo.org/records/19463598?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImE5MTgwMjI2LTczZDktNGNhOC05MmYzLTFhNGQ1OTU2ZTdmZCIsImRhdGEiOnt9LCJyYW5kb20iOiIxOTdkNTFjZjM0NGE3OTQyZDhmZTYxMTY2N2Q1NjhiZSJ9.HtvasustaDIeaj268OPsQqV-N1sXJxB7PNNEnl_HIcA9HKNhvwutKI1WQWHLx7M3aGH75O7Z3IRn5-G86z_1Vw)  
 🏫 **Affiliation**: Texas A&M University-Kingsville | NSF Award CNS-2219733
 
 ---
