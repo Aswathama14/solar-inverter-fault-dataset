@@ -51,4 +51,4 @@ python scripts/load_dataset.py --save_npy --data_path data/inverter_fault_datase
 
 ## Note on Large Files
 
-The CSV and .npy files may be hosted on [Zenodo](https://zenodo.org/record/XXXXXX) due to GitHub file size limits. Download them and place in this directory before running training scripts.
+The CSV and .npy files may be hosted on [Zenodo](https://zenodo.org/records/19463598) due to GitHub file size limits. Download them and place in this directory before running training scripts.
