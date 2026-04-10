@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FGreenTech68285.2026.11471570-blue)](https://doi.org/10.1109/GreenTech68285.2026.11471570)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Dataset](https://img.shields.io/badge/Zenodo-Dataset-orange)](https://zenodo.org/record/XXXXXX)
+[![Dataset](https://img.shields.io/badge/Zenodo-Dataset-orange)](https://zenodo.org/records/19463598)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 
